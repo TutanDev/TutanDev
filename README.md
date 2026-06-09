@@ -16,9 +16,8 @@ low-level integrations to extend Unity across Android, iOS, Windows, and console
 — from Quest and PICO headsets to Nintendo Switch and Android TV.
 
 - 🔭 Currently **Client Technical Lead** at YBVR, bridging engineering execution with client-facing delivery on complex XR products
-- 🌱 Currently exploring **Vulkan** and low-level graphics APIs
+- 🌱 Currently exploring **Vulkan** and low-level graphics APIs in [Funtional Rendering Lab](https://www.functionalrenderinglab.dev/)
 - 💬 Ask me about **Unity, shaders, render pipelines, native plugins & VR/AR**
-- ⚡ Fun fact: I've shipped native Unity plugins across Android (Java), Windows (C++), iOS/Mac (Objective-C) and the Nintendo Switch
 
 ### 🛠️ Tech & Tools
 
