@@ -49,9 +49,3 @@ low-level integrations to extend Unity across Android, iOS, Windows, and console
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresespinodelrio/)
 [![Website](https://img.shields.io/badge/Website-functionalrenderinglab.dev-FF5722?style=flat&logo=firefox&logoColor=white)](https://www.functionalrenderinglab.dev/)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TutanDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
